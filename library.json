@@ -1,0 +1,19 @@
+{
+    "name": "WiFiCommunicator",
+    "version": "1.0.0",
+    "keywords": "WiFi",
+    "description": "Simple UDP Packets",
+    "authors":
+    {
+        "name": "Lennart Pätzold",
+        "email": "lennart.paetzold@gmx.de",
+        "url": "none"
+    },
+    "repository":
+    {
+        "type": "git",
+        "url": "none"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
