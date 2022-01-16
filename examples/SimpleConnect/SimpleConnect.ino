@@ -10,8 +10,8 @@ WiFiCommunicator com(49001, 49000, addr);
 
 //WiFi Login-Daten
 #ifndef STASSID
-#define STASSID "PowerLine-Unitymedia"
-#define STAPSK  "Alleswirdgut1"
+#define STASSID "***"
+#define STAPSK  "***"
 #endif
 
 const char* ssid     = STASSID;
